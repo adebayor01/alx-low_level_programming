@@ -4,9 +4,9 @@
 /**
  * Main - program that prints the alphabet in lowercase
  *
- * Description: Using mainfuction
+ * Description: Using main fuction
  *
- * Returns: Always 0.
+ * Returns: Description of the returned value
  */
 
 int main(void)
@@ -18,5 +18,6 @@ int main(void)
 
 	putchar('\n');
 
-	return (0);
+	return(0);
+
 }
