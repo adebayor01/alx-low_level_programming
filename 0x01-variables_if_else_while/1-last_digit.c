@@ -6,8 +6,8 @@
  *
  * Discription - Using the main function
  *
- * Result:Always
- **/
+ * Return: Description of the returned value
+ */
 
 int main(void)
 {
