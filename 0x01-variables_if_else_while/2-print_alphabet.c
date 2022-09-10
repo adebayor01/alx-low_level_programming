@@ -1,5 +1,5 @@
 /*
- * File: 1-last_digit.c
+ * File: 2-print_alphabet.c
  * Auth: Brennan D Baraban
  */
 
@@ -7,9 +7,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Main - program that prints the alphabet in lowercase
+ * main - this is main function
  *
- * Description: Using main fuction
+ * description - using main function
  *
  * Returns: Description of the returned value
  */
