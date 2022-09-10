@@ -8,8 +8,8 @@
  * Description using the main function
  *
  * This program prints 'Progamming is positive, zero, or negative'
- * return: 
- * */
+ * return:
+ */
 int main(void)
 {
 	int n;
@@ -34,4 +34,3 @@ int main(void)
 
 	return(0);
 }
-
