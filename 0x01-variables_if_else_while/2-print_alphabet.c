@@ -5,12 +5,12 @@
  * Main - program that prints the alphabet in lowercase
  * Description: Using mainfuction
  * returns:Always
- * */
+ **/
 
 int main(void)
 {
 	char c;
-	for (c = 'a' ; c <= 'z' ; c++)
+	for (c = 'a'; c <= 'z'; c++)
 	{
 		putchar(c);
 	}
