@@ -1,9 +1,17 @@
 #include <stdlib.h>
 #include <time.h>
-/* More headers goes here */
+#include <stdio.h>
 
-/* betty style doc for function goes there */
-
+/**
+ * main - print if the number is positive, zero, or negative
+ *
+ * Description using the main function
+ *
+ * This program prints 'Progamming is positive, zero, or negative'
+ * return: 0
+ * 
+ *
+ * */
 int main(void)
 {
 	int n;
@@ -12,5 +20,18 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 
 	/*Your code goes there */
+
+	if (n > 0)
+	{
+		printf("%i is positive \n", n);
+	}
+	else if (n == 0)
+	{
+		printf("%i is zero \n", n);
+	}
+	else if (n < 0)
+	{
+		printf("%i is negative \n", n);
+	}
 	return (0);
 }
