@@ -6,8 +6,8 @@
  *
  * Discription - Using the main function
  *
- * Result: Always none 
- * */
+ * Result:Always none 
+ **/
 
 int main(void)
 {
@@ -32,4 +32,5 @@ int main(void)
 	}
 
 	return (0);
+
 }
