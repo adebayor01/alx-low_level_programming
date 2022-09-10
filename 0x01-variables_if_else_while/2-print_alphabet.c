@@ -7,11 +7,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - this is main function
+ * main - program that prints the alphabet in lowercase, followed by a new line
  *
  * description - using main function
  *
- * Returns: Description of the returned value
+ * Return: Description of the returned value
  */
 
 int main(void)
