@@ -8,7 +8,7 @@
  * Description using the main function
  *
  * This program prints 'Progamming is positive, zero, or negative'
- *Return: Always 
+ *Return:Always 
  */
 int main(void)
 {
