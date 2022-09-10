@@ -6,7 +6,7 @@
  *
  * Description: Using mainfuction
  *
- * Returns:Always 0.
+ * Returns: Always 0.
  */
 
 int main(void)
