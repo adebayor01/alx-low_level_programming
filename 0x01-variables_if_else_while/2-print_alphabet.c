@@ -3,8 +3,10 @@
 #include <stdio.h>
 /**
  * Main - program that prints the alphabet in lowercase
+ *
  * Description: Using mainfuction
- * Returns: Description of the returned value
+ *
+ * Returns:Always 0.
  */
 
 int main(void)
