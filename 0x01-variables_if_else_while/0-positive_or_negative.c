@@ -10,7 +10,7 @@
  * This program prints 'Progamming is positive, zero, or negative'
  * return:
  */
-int main()
+int main(void)
 {
 	int n;
 
@@ -33,3 +33,4 @@ int main()
 	}
 	return (0);
 }
+return (0);
