@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - program that prints the alphabet in lowercase, and then in uppercase, followed by a new line
+ * main - program that prints the alphabet
  *
  * description: using main function
  *
@@ -21,6 +21,6 @@ int main(void)
 		putchar(c);
 
 	putchar('\n');
-	
+
 	return (0);
 }
