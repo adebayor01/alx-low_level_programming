@@ -4,9 +4,9 @@
 /**
  * main -print the last digit of the number stored in the variable n
  *
- * Description: Using the main function
+ * Discription - Using the main function
  *
- * Return: Always (none)
+ * Result: Always none 
  * */
 
 int main(void)
@@ -18,7 +18,6 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 	l = n % 10;
 
-	/*Your code start here*/
 	if (l > 5)
 	{
 		printf("Last digit of %d is %d and is greater than 5\n", n, l);
@@ -29,7 +28,7 @@ int main(void)
 	}
 	else
 	{
-		printf("Last digit of %d is %d and is less than 6 and not 0\n" n, l)
+		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, l);
 	}
 
 	return (0);
