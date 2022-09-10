@@ -4,15 +4,15 @@
 /**
  * Main - program that prints the alphabet in lowercase
  * Description: Using mainfuction
- * returns:Always
- **/
+ * Returns: Description of the returned value
+ */
 
 int main(void)
 {
 	char ch;
-	for (ch = 'a'; ch <= 'z'; ch++)
+	for (ch = 'a'; ch<= 'z'; c++)
 	{
-		putchar(ch);
+		putchar(c);
 	}
 	putchar('\n');
 	return (0);
