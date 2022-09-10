@@ -4,7 +4,7 @@
 /**
  * Main - program that prints the alphabet in lowercase
  * Description: Using mainfuction
- * returns:Always
+ * Returns: Description of the returned value
  */
 
 int main(void)
