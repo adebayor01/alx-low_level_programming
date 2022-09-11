@@ -11,13 +11,12 @@
 
 int main(void)
 {
-	int i;
 	char c;
 
 	for (c = 0; c < 10; c++)
 	{
-		putchar("%i", c);
+		putchar(c);
 	}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
