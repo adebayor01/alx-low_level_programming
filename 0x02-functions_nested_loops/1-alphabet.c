@@ -2,7 +2,7 @@
 /**
  * print_alphabet - function to print abc
  *
- * Return: Description of the return value
+ * Return: void
  */
 void print_alphabet(void);
 {
