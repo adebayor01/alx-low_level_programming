@@ -1,8 +1,9 @@
 #include "main.h"
 /**
  * ack_bauer - Prints every minute of the day of Jack Bauer
+ *n from zero:zero to twenty three fifty-nine
  *
- * Return: ...
+ * Return: void
  */
 void jack_bauer(void)
 {
