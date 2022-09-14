@@ -9,14 +9,12 @@ int _abs(int c)
 {
 	if (c < 0)
 	{
-		int abs_ val;
+		int abs_val;
 
-		abs_ val = c * -1;
+		abs_val = c * -1;
 
-		return (abs_ val);
+		return (abs_val);
 	}
-	else
-	{
-		return (c);
-	}
+	
+	return (c);}
 }
