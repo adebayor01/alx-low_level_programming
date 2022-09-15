@@ -3,6 +3,8 @@
  * ack_bauer - Prints every minute of the day of Jack Bauer
  *n from zero:zero to twenty three fifty-nine
  *
+ *
+ * description - hours of the day
  * Return: void
  */
 void jack_bauer(void)
