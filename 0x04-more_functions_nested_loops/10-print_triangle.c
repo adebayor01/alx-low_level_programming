@@ -21,7 +21,7 @@ void print_triangle(int size)
 			}
 			for (y = 0; y < x; y++)
 			{
-				putchar("#");
+				putchar('#');
 			}
 			if (x == size)
 			{
